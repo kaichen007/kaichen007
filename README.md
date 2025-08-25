@@ -73,7 +73,7 @@ I combine **research, development, architecture, and management** to deliver sol
 ## 🎨 Fun Extras  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hero555007&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kaichen007&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
 
 <p align="center">
@@ -88,10 +88,10 @@ I combine **research, development, architecture, and management** to deliver sol
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:kaichen9229@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Hero555007" target="_blank">
+  <a href="https://github.com/kaichen007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
