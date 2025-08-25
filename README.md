@@ -1,64 +1,83 @@
-# 👋 Hi, I'm Kai Chen  
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kai%20Chen%20👨‍💻&fontSize=50&fontColor=ffffff" />
+</p>
 
-💻 **Full-Stack Developer | .NET & JavaScript Specialist | Since 2015**  
+---
 
-I am a passionate **full-stack web developer** with expertise in **ASP.NET, JavaScript frameworks, and modern web/mobile technologies**.  
-I enjoy building scalable backend systems, user-friendly frontends, and architecting solutions with **clean code principles (SOLID, TDD, DDD, CQRS, Clean Architecture)**.  
+## 👋 About Me  
+
+🌟 Full-Stack Web Developer specializing in **ASP.NET** and **JavaScript frameworks**  
+🔹 Since **2015**, building **scalable backends** & **intuitive frontends**  
+🔹 Passionate about **architecture, clean code, and testing (TDD, SOLID, DDD, CQRS)**  
+🔹 Experienced with **mobile, web, and desktop apps**  
 
 ---
 
 ## 🎯 Objective  
-Combining **research, architecture, development, management, and communication** is second nature to me.  
-I thrive in backend development, love working with modern frameworks, and always seek to deliver **efficient, maintainable, and scalable** solutions.  
+
+> *"Code is not just instructions for machines — it’s a bridge for people."*  
+
+I combine **research, development, architecture, and management** to deliver solutions that are **efficient, scalable, and maintainable**.  
 
 ---
 
-## 💼 Experience (Highlights)  
-🔹 Built and maintained **ASP.NET MVC & ASP.NET Core** applications with clean architecture principles  
-🔹 Created **scalable microservices** with .NET, Node.js, and NestJS  
-🔹 Designed **frontends** with React, Angular, and Vue (custom components, reusable hooks, state management with Redux/NgRx)  
-🔹 Integrated **third-party APIs** (Stripe, PayPal, Google Maps, SendGrid, HubSpot, etc.)  
-🔹 Implemented **mobile apps** with Xamarin & React Native  
-🔹 Designed **CI/CD pipelines** using GitHub Actions, CircleCI, Azure DevOps  
-🔹 Worked with **cloud services** like Azure (B2C, Notification Hub, Communication Service)  
-🔹 Built **real-time features** (chat systems, push notifications, schedulers, cron jobs)  
-🔹 Experience with **unit testing (TDD/Jest/xUnit)** and following **SOLID principles**  
+## 💼 Experience Highlights  
+
+✔️ Built dynamic **ASP.NET MVC / Core** apps with Razor & Web API  
+✔️ Designed **Microservices** with .NET & Node.js (NestJS, Express)  
+✔️ Developed **React / Angular / Vue** frontends with custom components  
+✔️ Integrated **third-party APIs** (Stripe, PayPal, Google Maps, SendGrid, HubSpot)  
+✔️ Mobile app development with **Xamarin & React Native**  
+✔️ **CI/CD pipelines** with GitHub Actions, CircleCI, Azure DevOps  
+✔️ Real-time features: **chat systems, push notifications, cron jobs, schedulers**  
+✔️ Unit testing with **xUnit / Jest** & following **SOLID principles**  
 
 ---
 
-## 🛠️ Skills  
-
-### 💻 Programming  
-`C#` `C/C++` `JavaScript` `TypeScript` `Python` `PHP` `HTML` `CSS`  
-
-### ⚡ Frameworks & Libraries  
-- **Backend**: ASP.NET Core / MVC, Web API, Node.js (Express, NestJS), Next.js  
-- **Frontend**: Angular (JS → 13), React + Redux, Vue.js  
-- **ORM/DB**: Entity Framework, TypeORM, Sequelize  
-
-### 🗄️ Databases  
-`SQL Server` `MySQL` `PostgreSQL` `MongoDB` `Oracle` `Azure Cosmos` 
-
-### 🔧 DevOps & Tools  
-`GitHub` `Bitbucket` `Azure DevOps` `CircleCI` `Docker`  
-
-### 🏗️ Architecture & Patterns  
-- OOP & System Design  
-- Repository Pattern  
-- Onion & Clean Architecture  
-- Domain Driven Design (DDD)  
-- Dependency Injection  
-- CQRS  
-
----
-
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hero555007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hero555007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaichen007&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaichen007&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python,php,html,css" />
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,vue,nodejs,nestjs,nextjs" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bitbucket,azure,mysql,postgresql,mongodb,oracle" />
+</p>
+
+---
+
+## 🏗️ Architecture & Principles  
+
+✅ **OOP & System Design**  
+✅ **Repository Pattern**  
+✅ **Onion & Clean Architecture**  
+✅ **Domain Driven Design (DDD)**  
+✅ **Dependency Injection**  
+✅ **CQRS**  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hero555007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hero555007&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🎨 Fun Extras  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hero555007&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -69,10 +88,17 @@ I thrive in backend development, love working with modern frameworks, and always
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kaichen9229@gmail.com">
+  <a href="mailto:YOUR-EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/kaichen007" target="_blank">
+  <a href="https://github.com/Hero555007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
 </p>
