@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaichen007&layout=compact)
 <!--
 **kaichen007/kaichen007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
